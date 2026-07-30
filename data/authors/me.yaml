@@ -1,0 +1,32 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Alexander H. Zhang
+  given: Alexander
+  family: Zhang
+  alternate: ''
+  pronunciation: ''
+  pronouns: he/him
+postnominals: []
+role: PhD Candidate in Philosophy and Bioethics
+bio: |
+  I am a philosopher and bioethicist at Saint Louis University. My research focuses on informed consent, moral powers, surrogate decision-making, and the ethics of artificial intelligence in medicine.
+affiliations:
+  - name: Saint Louis University
+    url: https://www.slu.edu/
+links: []
+interests:
+  - Bioethics
+  - Applied Ethics
+  - Informed Consent
+  - AI and Medicine
+education:
+  - degree: PhD in Philosophy and Bioethics
+    institution: Saint Louis University
+    start: 2021-08-01
+    end: 2027-05-01
+  - degree: MA in Philosophy
+    institution: Arizona State University
+  - degree: BA in Philosophy
+    institution: University College London
