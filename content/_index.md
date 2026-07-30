@@ -48,4 +48,15 @@ sections:
         [Read more about my teaching →](/teaching/)
     design:
       columns: '1'
+
+  - block: markdown
+    content:
+      title: A note on the name
+      subtitle: ''
+      text: |-
+        **Zhang de Re** is a philosophy joke, and this site belongs to Alexander H. Zhang, the philosopher and bioethicist at Saint Louis University—not every Alex or Alexander Zhang on the internet.
+
+        [About the domain and other people with my name →](/about-the-name/)
+    design:
+      columns: '1'
 ---
