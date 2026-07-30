@@ -1,0 +1,12 @@
+[build]
+  command = "pnpm install --no-frozen-lockfile && hugo --gc --minify -b $URL"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.162.0"
+  GO_VERSION = "1.21.5"
+  NODE_VERSION = "22"
+  PNPM_FLAGS = "--no-frozen-lockfile"
+
+[context.production.environment]
+  HUGO_ENV = "production"
