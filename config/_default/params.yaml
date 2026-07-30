@@ -1,0 +1,87 @@
+hugoblox:
+  schema: "2.0"
+  identity:
+    name: "Alexander H. Zhang"
+    organization: ""
+    type: person
+    tagline: "Philosopher and bioethicist"
+    description: "Alexander H. Zhang is a philosopher and bioethicist working on informed consent, moral powers, surrogate decision-making, and AI in medicine."
+    social: {}
+
+  theme:
+    mode: system
+    pack: "default"
+    colors:
+      primary: ""
+      secondary: ""
+      neutral: ""
+
+  typography:
+    pack: "academic"
+
+  layout:
+    radius: "sm"
+    spacing: "spacious"
+    avatar_shape: rounded
+
+  header:
+    enable: true
+    style: navbar-simple
+    sticky: true
+    align: right
+    search: false
+    theme_toggle: true
+    theme_picker: false
+    language_switcher: false
+
+  footer:
+    style: minimal
+    language_switcher: false
+    text: ""
+
+  copyright:
+    notice: "© {year} {name}"
+    license:
+      type: custom
+      allow_derivatives: false
+      share_alike: false
+      allow_commercial: false
+
+  content:
+    math:
+      enable: false
+    toc:
+      enable: true
+    reading_time:
+      enable: false
+    citations:
+      style: chicago
+
+  search:
+    enable: false
+
+  comments:
+    enable: false
+    provider: ""
+
+  repository:
+    enable: false
+    url: ""
+    branch: main
+    content_dir: content
+
+  locale:
+    date_format: "Jan 2, 2006"
+    time_format: "3:04 PM"
+    address_format: en-us
+
+  privacy:
+    enable: false
+    anonymize_analytics: true
+
+  debug:
+    enable: false
+
+  pro:
+    hide_attribution: false
+    affiliate_code: ""
